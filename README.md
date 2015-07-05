@@ -1,0 +1,1 @@
+Genera números aleatorios y dice si son mayores o menores de 0,5.
